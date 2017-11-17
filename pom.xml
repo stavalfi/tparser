@@ -29,7 +29,7 @@
       <email>stavalfi@gmail.com</email>
     </developer>
   </developers>
-  git@github.com:UniversityFinalProjects/tparser.git
+
   <scm>
     <connection>scm:git:git://github.com/UniversityFinalProjects/tparser.git</connection>
     <developerConnection>scm:git:git@github.com:UniversityFinalProjects/tparser.git</developerConnection>
