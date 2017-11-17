@@ -29,11 +29,11 @@
       <email>stavalfi@gmail.com</email>
     </developer>
   </developers>
-
+  git@github.com:UniversityFinalProjects/tparser.git
   <scm>
-    <connection>scm:git:git://github.com/junit-team/junit4.git</connection>
-    <developerConnection>scm:git:git@github.com:junit-team/junit4.git</developerConnection>
-    <url>http://github.com/junit-team/junit4/tree/master</url>
+    <connection>scm:git:git://github.com/UniversityFinalProjects/tparser.git</connection>
+    <developerConnection>scm:git:git@github.com:UniversityFinalProjects/tparser.git</developerConnection>
+    <url>https://github.com/UniversityFinalProjects/tparser</url>
     <tag>HEAD</tag>
   </scm>
 
